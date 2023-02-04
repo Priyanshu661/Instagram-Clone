@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Priyanshu661/Instagram-Clone.git"
+    "url": "git+https://github.com/Priyanshu661/insta-clone.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Priyanshu661/Instagram-Clone/issues"
+    "url": "https://github.com/Priyanshu661/insta-clone.git/issues"
   },
-  "homepage": "https://github.com/Priyanshu661/Instagram-Clone#readme"
+  "homepage": "https://github.com/Priyanshu661/insta-clone.git#readme"
 }
